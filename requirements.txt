@@ -1,0 +1,7 @@
+Type in "pip3 install pygame" to install pygame.
+
+Pygame version I used was pygame 2.5.2
+
+If you get the message that the command pip3 does not exist, then try "py -3 -m pip install pygame"
+
+For any more help: https://petlja.org/biblioteka/r/lekcije/TxtProgInPythonEng/03_pygame-03_pygame_01_intro#:~:text=Just%20type%20pip3%20install%20pygame,3%20%2Dm%20pip%20install%20pygame%20. 
